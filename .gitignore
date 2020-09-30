@@ -3,3 +3,6 @@
 
 # Gimp Dependencies
 *.xcf
+
+# Mac Dependencies
+.DS_Store
