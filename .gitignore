@@ -1,0 +1,5 @@
+# Spark AR Dependencies
+*.arexport
+
+# Gimp Dependencies
+*.xcf
